@@ -139,17 +139,10 @@ This will create a distributable JAR file in build folder. Package an appropriat
 * Support to edit data in the UI and do 'push' replication to sync gateway
 
 ## Future roadmap 
-
 * Support to delete documents from CBLite via UI and sync deletes to CB Server
 * Support to run N1QL like queries on CBLite DB
 * Support to create/delete users on Sync Gateway and grant access to channels
 * Support to run in headless mode as a lightweight CLI based tool with support for wss (cert pinning) which is currently lacking in the Couchbase Labs provided CBLite CLI tool
-* ~~Support for adding Attachments (Blobs) to Documents in CBLite Tester tool and syncing it up to the server~~ (implemented in v1.4)
 * Improve performance for loading full documents in Table
 * Modular Java app with distributable package
-* ~~Support for exporting synced documents~~ (implemented in v1.7)
-* ~~Package app for distribution as JAR~~ (implemented in v1.1)
-* ~~Support for loading data from another CBLite DB~~ (implemented in v1.2)
-* ~~Support to create documents in CBLite from UI and sync up to the DB via Sync Gateway~~ (implemented in v1.3)
-* ~~Support for Sync Gateway Session Token Authentication~~ (implemented in v1.9)
-* ~~Support for Generating Sync Gateway Session Token~~ (implemented in v1.10)
+
