@@ -139,7 +139,7 @@ This will create a distributable JAR file in build folder. Package an appropriat
 * Support to edit data in the UI and do 'push' replication to sync gateway
 
 ## Future roadmap 
-* ~~Support to search documents based on specified criteria~~ (implemented in v1.5)
+
 * Support to delete documents from CBLite via UI and sync deletes to CB Server
 * Support to run N1QL like queries on CBLite DB
 * Support to create/delete users on Sync Gateway and grant access to channels
